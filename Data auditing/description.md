@@ -15,7 +15,7 @@
 
 ЗАКЛЮЧЕНИЕ
 
-##### *Весь код создания приведен в файлах Database Creation (Application A).sql и LogSys Creation.sql*
+### *Весь код создания приведен в файлах Database Creation (Application A).sql и LogSys Creation.sql*
 
 
 
